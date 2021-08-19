@@ -28,6 +28,5 @@ document.addEventListener("DOMContentLoaded", () => {
 			setCount();
 		}
 	})
-
 }); 
 // Afslutter: DOMContentLoaded
